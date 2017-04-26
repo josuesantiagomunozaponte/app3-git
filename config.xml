@@ -5,14 +5,14 @@
   id ="con.phonegap.example3"
   version ="1.0.0">
 
- <name>app3 BIBLIOGRAFIA</name>
+ <name>app bibliografia</name>
 
  <description>
  Aplicacion que muestra informacion sobre la bibliografia del cbtis16
  </description>
  
  <author href ="https://build.phonegap.com" email="josue.munoz.aponte.cbtis16@gmail.com">
- josue santiago munoz aponte
+ josue santiago muñoz aponte
  </author>
  
  <!--personaliza la aplicacion y plataforma-->
